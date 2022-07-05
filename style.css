@@ -1,7 +1,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgba(0, 0, 0, 0.918);
-    margin: 0;
+    color: rgba(0, 0, 0, 0.863);
+    margin: 0px;
 }
 
 h1 {
@@ -46,4 +46,16 @@ h5 {
 .about-me {
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
+}
+
+.recipie-title {
+    width: 45%;
+    margin: 2.5%;
+    padding: 2%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.recipie-title img {
+    width: 100%;
 }
