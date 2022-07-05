@@ -1,10 +1,15 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgba(0, 0, 0, 0.918);
+    margin: 0;
 }
 
 h1 {
     font-size: 70px;
+}
+
+h2 {
+    font-size: 35px;
 }
 
 h5 {
@@ -13,7 +18,7 @@ h5 {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -36,4 +41,9 @@ h5 {
     border-radius: 20px;
     color: white;
     font-weight: 700;
+}
+
+.about-me {
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
 }
