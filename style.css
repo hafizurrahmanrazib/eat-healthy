@@ -59,3 +59,23 @@ h5 {
 .recipie-title img {
     width: 100%;
 }
+
+.social-media {
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 30px;
+}
+
+.media {
+    padding-left: 13%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 120px;
+    padding: 10px;
+    text-align: center;
+}
